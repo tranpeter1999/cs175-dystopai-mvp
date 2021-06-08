@@ -1,11 +1,12 @@
 ﻿#region
 
 using System.Collections.Generic;
+using DystopAI.PlayerProfile;
 using TMPro;
 
 #endregion
 
-namespace DystopAI
+namespace DystopAI.IllegalMessage
 {
 	public static class DystopAIIllegalMessageCoordinatorFactory
 	{

@@ -1,4 +1,4 @@
-﻿namespace DystopAI
+﻿namespace DystopAI.PlayerProfile
 {
 	public interface IDystopAIPlayerProfilePunisher
 	{

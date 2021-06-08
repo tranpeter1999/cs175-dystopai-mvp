@@ -1,6 +1,8 @@
 ﻿#region
 
 using System.Collections.Generic;
+using DystopAI.IllegalMessage;
+using DystopAI.PlayerProfile;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Windows.Speech;

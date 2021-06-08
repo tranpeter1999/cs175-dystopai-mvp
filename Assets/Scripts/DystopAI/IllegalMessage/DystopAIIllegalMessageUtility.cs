@@ -5,7 +5,7 @@ using System.Text;
 
 #endregion
 
-namespace DystopAI
+namespace DystopAI.IllegalMessage
 {
 	public static class DystopAIIllegalMessageUtility
 	{

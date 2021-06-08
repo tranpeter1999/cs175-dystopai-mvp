@@ -5,7 +5,7 @@ using UnityEngine;
 
 #endregion
 
-namespace DystopAI
+namespace DystopAI.IllegalMessage
 {
 	[Serializable]
 	public class DystopAIIllegalWordConfig

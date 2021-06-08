@@ -3,13 +3,14 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using DystopAI.PlayerProfile;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Windows.Speech;
 
 #endregion
 
-namespace DystopAI
+namespace DystopAI.IllegalMessage
 {
 	public class DystopAIIllegalMessageCoordinator
 	{
